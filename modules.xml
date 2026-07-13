@@ -50,5 +50,6 @@
 	<module identifier="vpv" type="Bibles" abbr="VPV" title="Versão Palavra Viva" author="Paulus, Editora" lang="por" url="bibles/VPV - Versão Palavra Viva.ntx" descrurl="bibles/VPV - Versão Palavra Viva.html" vermajor="1" verminor="0" verdate="2026-07-11" dlsizekb="1512"/>
 	<module identifier="vulgate" type="Bibles" abbr="VULGATE" title="Bíblia Sacra Vulgata Latina 405 D.C." author="Jerônimo, São" lang="lat" url="bibles/VULGATE - Bíblia Sacra Vulgata Latina 405 D.C.ont" descrurl="bibles/VULGATE - Bíblia Sacra Vulgata Latina 405 D.C.html" vermajor="1" verminor="0" verdate="2026-07-11" dlsizekb="3378"/>
 	<module identifier="vulgate1598" type="Bibles" abbr="VULGATE1598" title="Vulgata Clementina de 1598" author="VIII, Papa Clemente" lang="lat" url="bibles/VULGATE - Vulgata Clementina de 1598.ont" descrurl="bibles/VULGATE - Vulgata Clementina de 1598.html" vermajor="1" verminor="0" verdate="2026-07-11" dlsizekb="3688"/>
+	<module identifier="bk-dp" type="Books" abbr="BK_DP" title="Doutrina do Pecado" author="VIII, Papa Clemente" lang="por" url="books/Livro - DOUTRINA DO PECADO.gbk.twm" descrurl="books/Livro - DOUTRINA DO PECADO.html" vermajor="1" verminor="0" verdate="2026-07-13" dlsizekb="1779"/>
 	
 </modules>
